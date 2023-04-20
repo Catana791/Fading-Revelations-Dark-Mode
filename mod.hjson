@@ -1,0 +1,6 @@
+name: frdm
+displayName: Fading Revelations Dark Mode
+description: A texture pack that turns Fading Revelations sprites into dark mode. Requires Fading Revelations. [WIP!]
+version: 0.1
+minGameVersion: 140
+dependencies: [me]
